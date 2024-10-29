@@ -8,3 +8,7 @@ Software screenshot
 
 Result screenshot
 ![Result](img/result.png)
+
+
+.\venv\Scripts\activate
+python.exe .\netlist.py
