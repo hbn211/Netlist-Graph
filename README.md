@@ -11,4 +11,5 @@ Result screenshot
 
 
 .\venv\Scripts\activate
+
 python.exe .\netlist.py
